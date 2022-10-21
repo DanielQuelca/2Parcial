@@ -1,0 +1,17 @@
+:root {
+    --fontSize: 18px;
+  }
+body {
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+.div
+{
+  font-weight: 700;
+  font-size: 18px; 
+}
+.div span
+{
+    display: flex;
+}
